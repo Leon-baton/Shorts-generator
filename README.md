@@ -5,8 +5,7 @@
 Скрипт берет рандомную гифку из Tenor, затем добавляет на него текст, сгенерированный при помощи ChatGPT.
 
 # Установка
-1. Скачайте [ffmpeg](https://www.ffmpeg.org/).
-2. Для fluent-ffmpeg необходим пайтон, по этому его тоже нужно скачать.
+1. Скачайте [Node.js](https://nodejs.org/ru), [Ffmpeg](https://www.ffmpeg.org/) и [Python](https://www.python.org/).
 3. Установите необходимые библиотеки с помощью этой команды:
 ```
 npm install
