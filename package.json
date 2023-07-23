@@ -13,9 +13,7 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@types/node": "^18.0.6",
     "axios": "^1.4.0",
-    "center-align": "^1.0.1",
     "fluent-ffmpeg": "^2.1.2",
-    "fs-extra": "^11.1.1",
-    "node-fetch": "^3.2.6"
+    "fs-extra": "^11.1.1"
   }
 }
