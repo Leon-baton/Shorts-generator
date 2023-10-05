@@ -6,7 +6,7 @@
 
 # Установка
 1. Скачайте [Node.js](https://nodejs.org/ru), [Ffmpeg](https://www.ffmpeg.org/) и [Python](https://www.python.org/).
-2. Заполните .env файл.
+2. Переименнуйте файл example.env в .env и заполните его.
 3. Установите необходимые библиотеки с помощью этой команды:
 ```
 npm install
